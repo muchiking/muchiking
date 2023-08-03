@@ -1,6 +1,6 @@
 # Greetings! 
 ## I am Muchi,
-🇰🇪 Kenyan techie with a burning passion for technology and a love for all things cybersecurity 🔐  
+🇰🇪 A Kenyan techie with a burning passion for technology and a love for all things cybersecurity 🔐  
 💻 Software Developer specializing in JavaScript, PHP, and Python 🌐💻  
 Making magic happen on the web! 💻   
   
