@@ -1,6 +1,12 @@
 ## Hi I am Muchi,
-🇰🇪 A Kenyan techie with a burning passion for technology and a love for all things cybersecurity 🔐  
-💻 Software Developer specializing in JavaScript, PHP, and Python 🌐💻  
+
+email : joelmuchi@gmail.com
+
+Have a good day 
+
+
+[GIF](SKjTHluaRvLG.webp)
+
+
  
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=muchiking) 
+
